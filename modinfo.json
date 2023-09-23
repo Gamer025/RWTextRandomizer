@@ -1,0 +1,9 @@
+{
+  "id": "Gamer025.TextRandomizer",
+  "name": "Text Randomizer",
+  "version": "1.0.0",
+  "target_game_version": "v1.9.07b",
+  "authors": "Gamer025",
+  "description": "Randomizes most text in the game with randomly chosen other text.\n WARNING: It's recommenend to use a separate save slot/backup your settings in case you accidentally interact with the wrong UI elements.\n Every button/slider still serves its original purpose but names/descriptions will be random and not match their actual function!",
+  "checksum_override_version": false
+}
